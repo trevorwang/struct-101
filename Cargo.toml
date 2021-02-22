@@ -1,0 +1,17 @@
+[workspace]
+members = [
+    "adder",
+    "closures",
+    "collections",
+    "controll_flow",
+    "enums",
+    "error_handling",
+    "generics",
+    "gussing-game",
+    "hello-world",
+    "minigrep",
+    "package",
+    "references",
+    "stuct",
+    "variables",
+]
